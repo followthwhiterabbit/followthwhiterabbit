@@ -1,4 +1,4 @@
-U+1F9FF
+&#129535;
 
 ## Some of my projects to keep it short
 
