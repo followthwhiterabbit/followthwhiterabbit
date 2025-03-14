@@ -28,4 +28,4 @@
 - [Hacking: The art of Exploitation Notes](https://github.com/followthwhiterabbit/hacking_the_art_of_exploitation)
 - [Codeforces repo to keep up with competitive programming(I am solving one by one)](https://github.com/followthwhiterabbit/codeforces)
 
-<!-- ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=followthwhiterabbit) --> 
+I am new in codeforces, ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=followthwhiterabbit)
