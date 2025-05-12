@@ -22,8 +22,7 @@
 - [KAO Metrology Website built with Django, Python HTML, CSS, Javascript](https://github.com/followthwhiterabbit/kao_website_ci_cd)
 - [XAMMP Apache Server PHP Car rental Project with database connection](https://github.com/followthwhiterabbit/xammp_car_rental_s7697)
 - [Java SQL Server integration](https://github.com/followthwhiterabbit/wwsis_java_sql_server_integration)
-- çanakkaleturrehberi.com
-- canakkaleturrehberi.com.tr
+
 
 ### Tutorials && Learning Resources
 - [Cracking the Coding Interview Questions and Answers with c++](https://github.com/followthwhiterabbit/cracking_the_coding_interview)
