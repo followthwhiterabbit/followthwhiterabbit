@@ -24,7 +24,7 @@
 - [Java SQL Server integration](https://github.com/followthwhiterabbit/wwsis_java_sql_server_integration)
 - [canakkale tur rehberi](https://çanakkaleturrehberi.com)
 - [canakkale tur rehberi(2)](https://canakkaleturrehberi.com.tr)
-  
+- [Seker Firewood](https://kayhansekeryakacakodun.com)
 
 ### Tutorials && Learning Resources
 - [Cracking the Coding Interview Questions and Answers with c++](https://github.com/followthwhiterabbit/cracking_the_coding_interview)
